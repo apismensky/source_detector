@@ -1,0 +1,108 @@
+668,412  |   2,810,173  |   2,420,982  |
+|Minnesota            |   2,387,125  |   2,075,708  |   1,751,394  |
+|Mississippi          |   1,790,618  |   1,797,114  |   1,551,270  |
+|Missouri             |   3,404,055  |   3,293,335  |   3,106,665  |
+|Montana              |     548,889  |     376,053  |     243,329  |
+|Nebraska             |   1,296,372  |   1,192,214  |   1,066,300  |
+|Nevada               |      77,407  |      81,875  |      42,335  |
+|New Hampshire        |     443,407  |     430,572  |     411,588  |
+|New Jersey           |   3,155,900  |   2,537,167  |   1,883,669  |
+|New Mexico           |     360,350  |     327,301  |     195,310  |
+|New York             |  10,384,829  |   9,113,614  |   7,268,894  |
+|North Carolina       |   2,559,123  |   2,206,287  |   1,893,810  |
+|North Dakota         |     645,680  |     577,056  |     319,146  |
+|Ohio                 |   5,759,394  |   4,767,121  |   4,157,545  |
+|Oklahoma             |   2,028,283  |   1,657,155  |     790,391  |
+|Oregon               |     783,389  |     672,765  |     413,536  |
+|Pennsylvania         |   8,720,017  |   7,665,111  |   6,302,115  |
+|Rhode Island         |     604,397  |     542,610  |     428,556  |
+|South Carolina       |   1,683,724  |   1,515,400  |   1,340,316  |
+|South Dakota         |     636,547  |     583,888  |     401,570  |
+|Tennessee            |   2,337,885  |   2,184,789  |   2,020,616  |
+|Texas                |   4,663,228  |   3,896,542  |   3,048,710  |
+|Utah                 |     449,396  |     373,351  |     276,749  |
+|Vermont              |     352,428  |     355,956  |     343,641  |
+|Virginia             |   2,309,187  |   2,061,612  |   1,854,184  |
+|Washington           |   1,356,621  |   1,141,990  |     518,103  |
+|West Virginia        |   1,463,701  |   1,221,119  |     958,800  |
+|Wisconsin            |   2,632,067  |   2,333,860  |   2,069,042  |
+|Wyoming              |     194,402  |     145,965  |      92,531  |
++---------------------+--------------+--------------+--------------+
+
+FOOTNOTES:
+
+[3] Partly superseded by the 14th Amendment, p. 639.
+
+[4] See the 17th Amendment, p. 641.
+
+[5] _Ibid._, p. 641.
+
+[6] See the 16th Amendment, p. 640.
+
+[7] The following paragraph was in force only from 1788 to 1803.
+
+[8] Superseded by the 12th Amendment, p. 638.
+
+[9] See the 11th Amendment, p. 638.
+
+[10] First ten amendments proposed by Congress, Sept. 25, 1789.
+Proclaimed to be in force Dec. 15, 1791.
+
+[11] Proposed Sept. 5, 1794. Declared in force January 8, 1798.
+
+[12] Adopted in 1804.
+
+[13] Adopted in 1865.
+
+[14] Adopted in 1868.
+
+[15] Proposed February 27, 1869. Declared in force March 30, 1870.
+
+[16] Passed July, 1909; proclaimed February 25, 1913.
+
+[17] Passed May, 1912, in lieu of paragraph one, Section 3, Article I,
+of the Constitution and so much of paragraph two of the same Section as
+relates to the filling of vacancies; proclaimed May 31, 1913.
+
+[18] Ratified January 16, 1919.
+
+[19] Ratified August 26, 1920.
+
+
+
+
+APPENDIX
+
+TABLE OF PRESIDENTS
+
+NAME                    STATE  PARTY     YEAR IN    VICE-PRESIDENT
+                                         OFFICE
+1 George Washington      Va.    Fed.    1789-1797   John Adams
+2 John Adams             Mass.  Fed.    1797-1801   Thomas Jefferson
+3 Thomas Jefferson       Va.    Rep.    1801-1809   Aaron Burr
+                                                    George Clinton
+4 James Madison          Va.    Rep.    1809-1817   George Clinton
+                                                    Elbridge Gerry
+5 James Monroe           Va.    Rep.    1817-1825   Daniel D. Tompkins
+6 John Q. Adams          Mass.  Rep.    1825-1829   John C. Calhoun
+7 Andrew Jackson         Tenn.  Dem.    1829-1837   John C. Calhoun
+                                                    Martin Van Buren
+8 Martin Van Buren       N.Y.   Dem.    1837-1841   Richard M. Johnson
+9 Wm. H. Harrison        Ohio   Whig    1841-1841   John Tyler
+10 John Tyler[20]        Va.    Whig    1841-1845
+11 James K. Polk         Tenn.  Dem.    1845-1849   George M. Dallas
+12 Zachary Taylor        La.    Whig    1849-1850   Millard Fillmore
+13 Millard Fillmore[20]  N.Y.   Whig    1850-1853
+14 Franklin Pierce       N.H.   Dem.    1853-1857   William R. King
+15 James Buchanan        Pa.    Dem.    1857-1861   J.C. Breckinridge
+16 Abraham Lincoln       Ill.   Rep.    1861-1865   Hannibal Hamlin
+                                                    Andrew Johnson
+17 Andrew Johnson[20]    Tenn.  Rep.    1865-1869
+18 Ulysses S. Grant      Ill.   Rep.    1869-1877   Schuyler Colfax
+                                                    Henry Wilson
+19 Rutherford B. Hayes   Ohio   Rep.    1877-1881   Wm. A. Wheeler
+20 James A. Garfield     Ohio   Rep.    1881-1881   Chester A. Arthur
+21 Chester A. Arthur[20] N.Y.   Rep.    1881-1885
+22 Grover Cleveland      N.Y.   Dem.    1885-1889   Thomas A. Hendricks
+23 Benjamin Harrison     Ind.   Rep.    1889-1893   Levi P. Morton
+24 Grover Cleveland      N.Y.   Dem.

@@ -1,0 +1,344 @@
+14
+
+  Cartilaginous exostosis, 191, 481
+
+  Caseation in tuberculosis, 136
+
+  Catalepsy, 116
+
+  Catgut, infection by, 51
+    preparation of, 245
+
+  Cautery in haemorrhage, 271
+
+  Cavernous angioma, 298
+    lymphangioma, 327
+
+  Cellulitis, 52
+    in different situations, 58
+    diffuse, 52
+
+  Cephalic or Kopf tetanus, 116
+
+  Cerebro-spinal meningitis, 115
+
+  Cervical adenitis, 332
+    rib, 360
+
+  Chalk stones in gouty joints, 523
+
+  Chancre, concealed, 152, 153, 157
+    erratic, 153
+    extra-genital, 153
+    hard, 151
+    meatal, 152
+    multiple, 152
+    relapsing false indurated, 172
+    soft, 154
+    urethral, 152
+
+  Chancroid, 154
+
+  Charcoal poultice, 84
+
+  Charcot's disease, 533
+
+  Cheloid. _See_ Keloid
+
+  Chemiotaxis, 32
+
+  Chigoe, 130
+
+  Chilblain, 378
+
+  Chimney-sweep's cancer, 395
+
+  Chloroma, 200
+
+  Chondroma, 189, 487
+    multiple, 544
+
+  Chondromatosis, 488
+
+  Chondro-sarcoma, 189, 200, 487
+
+  Chordoma, 200
+
+  Choroiditis, syphilitic, 177
+
+  Chylorrhoea, 325
+
+  Chylo-thorax, 325
+
+  Chylous ascites, 325
+
+  Cicatrices, varieties of, 400
+
+  Cicatricial contraction, 4
+    tissue, 4
+
+  Circumflex nerve. _See_ Axillary Nerve
+
+  Cirsoid aneurysm, 299
+
+  Claw-hand, 369
+
+  Cloacae in bone, 443
+
+  Cocci, 18
+
+  Coeliac artery, aneurysm of, 313
+
+  Coley's fluid, 201
+
+  Collapse, 254
+
+  Collateral circulation, 267
+
+  Colles' law, 178
+
+  Colloid cancer, 210
+
+  Common peroneal nerve, 370
+
+  Compound palmar ganglion, 217, 423
+
+  Condylomata, 158, 174
+
+  Congenital fistulas, 60
+    telangiectasis, 294
+
+  Connective tissue, repair of, 6
+
+  Contracture of joints, 502
+    of muscles, 415
+    paralytic, 347
+
+  Contusions, 218
+
+  Cornea, syphilitic ulceration of, 177
+
+  Corns, 377
+
+  Corpora oryzoidea, 539
+
+  Counter-irritants, 37, 42
+
+  Craniotabes, 175, 176, 465
+
+  Crural fibrositis, 413
+
+  Crutch paralysis, 351
+
+  Cupping dry, 39
+    wet, 42
+
+  Cutis anserina, 36
+
+  Cyanosis, traumatic, 254
+
+  Cyst, 212
+    atheromatous, 389
+    Baker's, 539
+    blood 214, 220
+    of bone, 477, 500
+    dentigerous, 193
+    derma, 210
+    exudation, 212
+    ganglionic, 215
+    haemorrhagic, 220
+    hydatid, 213
+    implantation, 212
+    of joints, 538
+    lymph, 214
+    lymphatic, 219, 328
+    omental, 329
+    parasitic, 213
+    retention, 212
+    sebaceous, 212, 389
+    serous, 219
+    venous, 289
+
+  Cystic adenoma, 202
+    carcinoma, 210
+    hygroma of neck, 328
+    lymphangioma, 327, 328
+
+
+  Dactylitis, syphilitic, 176, 460, 466
+    tuberculous, 460
+
+  Dancer's sprain, 406
+
+  Deafness, syphilitic, 178
+
+  Deformities. _See_ Individual Regions
+
+  Delhi boil, 129
+
+  Delirium, in surgical patients, 255
+    traumatic, 257
+
+  Delirium tremens, 256
+
+  Dentigerous cyst, 193
+
+  Dercum on adiposus dolorosa, 186
+
+  Derma-cysts, 210
+
+  Dermatitis, 239, 292
+
+  Dermoids, 210
+
+  Diabetic gangrene, 96
+
+  Diarsenol, 163
+
+  Diapedesis of red corpuscles, 32
+
+  Diaphysial aclasis, 483
+
+  Diffuse aneurysm, 302
+    cellulitis, 52
+    fibromatosis, 194
+    lipomatosis, 187
+    neuro-fibromatosis, 355
+    osteoma, 485
+    suppuration, 52
+
+  Diphtheria, 109
+    antitoxin in, 111
+    intubation in, 111
+
+  Diplococci, 19
+
+  Dislocation of nerves, 351, 369
+    pathological, 514
+    of tendons, 408
+
+  Double cyanide gauze, 247
+
+  Drainage of wounds, 222
+
+  Dressings, surgical, 247
+
+  Drill-bone, 418
+
+  Drop-finger, 411
+    -foot, 370
+    -wrist, 365
+
+  Drunkard's palsy, 351, 364
+
+  Duchenne's paralysis, 361
+
+  Ducrey's bacillus, 154
+
+  Duodenum, ulceration of, in burns, 236
+
+  Dwarf, rickety, 469
+    syphilitic, 178
+
+
+  Eburnation of articular surfaces, 557
+
+  Ecchondroses, 527
+
+  Ecchymosis, 218
+
+  Echinococcus, 213
+
+  Echthyma, 158
+
+  Eczema, varicose, 292
+
+  Elbow, angler's, 406
+    cellulitis of, 58
+    tennis, 406
+
+  Electricity, injuries by, 239
+
+  Electrolysis in angioma, 297
+
+  Elephantiasis, varieties of, 360, 384, 386
+
+  Embolism, 281
+    air, 265
+
+  Embolism, fat, 254
+    of individual arteries, 93
+
+  Embolus, 281
+
+  Emigration of leucocytes, 32
+
+  Emotional shock, 251
+
+  Emphysema, 99, 102
+
+  Emprosthotonos, 214
+
+  Empyema of joints, 501, 518
+
+  Encephaloid cancer, 210
+
+  Endarteritis obliterans, 282
+    syphilitic, 161
+
+  Endo-aneurysmorrhaphy, 307
+
+  Endothelioma, 196
+    of bone, 492
+
+  Epicritic sensibility of nerves, 343
+
+  Epidermis, grafting, 12
+    repair of, 4
+
+  Epiphysial cartilage, 434
+    junction, 434
+      in rickets, 469
+
+  Epiphysiolysis, 440
+
+  Epiphysitis, 437
+    syphilitic, 465
+
+  Epithelial tumours, 201
+
+  Epithelioma, 208
+    chimney-sweep's, 395
+    lupus, 384
+    paraffin, 395
+    in scars, 402
+    sinus, 500
+    of skin, 394
+    trade, 395
+    varieties of, 208
+    X-ray, 395
+
+  Epithelium grafting, 12
+    repair of, 6
+
+  Epulis, 491
+
+  Erb's paralysis, 361
+
+  Erysipelas, varieties of, 107
+
+  Erythema pernio, 378
+    nodosum, 442
+
+  Evaporating lotions, 41
+
+  Exfoliation, 438
+
+  Exophthalmos, pulsating, 317
+
+  Exostosis, 191, 481
+    bursata, 481
+    cancellous, 481
+    cartilaginous, 191, 481
+    false, 192
+    ivory, 

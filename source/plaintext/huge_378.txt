@@ -1,0 +1,141 @@
+Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+Project Gutenberg's Manual of Surgery, by Alexis Thomson and Alexander Miles
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Manual of Surgery
+       Volume First: General Surgery. Sixth Edition.
+
+Author: Alexis Thomson and Alexander Miles
+
+Release Date: March 4, 2006 [EBook #17921]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK MANUAL OF SURGERY ***
+
+
+
+
+Produced by Jonathan Ingram, Laura Wisewell and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
++--------------------------------------------------------------------+
+|                                                                    |
+| Transcriber's note: The original text used the apothecaries'       |
+| symbols here rendered as [ounce] and [dram]. The substitutions     |
+| used for other special characters, such as the oe ligature, are    |
+| standard. All the special characters are preserved in the UTF-8    |
+| and HTML versions of this text.                                    |
+|                                                                    |
+| In addition, a number of printing errors have been corrected.      |
+| These are marked in the HTML version only.                         |
+|                                                                    |
++--------------------------------------------------------------------+
+
+
+
+
+                     OXFORD MEDICAL PUBLICATIONS
+
+
+
+                          MANUAL OF SURGERY
+
+
+
+                                  BY
+
+                     ALEXIS THOMSON, F.R.C.S.Ed.
+           _PROFESSOR OF SURGERY, UNIVERSITY OF EDINBURGH_
+                  SURGEON EDINBURGH ROYAL INFIRMARY
+
+                                 AND
+
+                     ALEXANDER MILES, F.R.C.S.Ed.
+                  SURGEON EDINBURGH ROYAL INFIRMARY
+
+
+                             VOLUME FIRST
+                           GENERAL SURGERY
+
+
+                       _SIXTH EDITION REVISED_
+                       _WITH 169 ILLUSTRATIONS_
+
+
+
+                                LONDON
+                 HENRY FROWDE and HODDER & STOUGHTON
+                        THE _LANCET_ BUILDING
+                 1 & 2 BEDFORD STREET, STRAND, W.C.2
+
+
+
+
+
+
+    First Edition                                             1904
+    Second Edition                                            1907
+    Third Edition                                             1909
+    Fourth Edition                                            1911
+      "       "    Second Impression                          1913
+    Fifth Edition                                             1915
+      "       "    Second Impression                          1919
+    Sixth Edition                                             1921
+
+
+
+                     PRINTED IN GREAT BRITAIN BY
+                  MORRISON AND GIBB LTD., EDINBURGH
+
+
+
+
+PREFACE TO SIXTH EDITION
+
+
+Much has happened since this Manual was last revised, and many surgical
+lessons have been learned in the hard school of war. Some may yet have
+to be unlearned, and others have but little bearing on the problems
+presented to the civilian surgeon. Save in its broadest principles, the
+surgery of warfare is a thing apart from the general surgery of civil
+life, and the exhaustive literature now available on every aspect of it
+makes it unnecessary that it should receive detailed consideration in a
+manual for students. In preparing this new edition, therefore, we have
+endeavoured to incorporate only such additions to our knowledge and
+resources as our experience leads us to believe will prove of permanent
+value in civil practice.
+
+For the rest, the text has been revised, condensed, and in places
+rearranged; a number of old illustrations have been discarded, and a
+greater number of new ones added. Descriptions of operative procedures
+have been omitted from the _Manual_, as they are to be found in the
+companion volume on _Operative Surgery_, the third edition of which
+appeared some months ago.
+
+We have retained the Basle anatomical nomenclature, as extended
+experience has confirmed our preference for it. For the convenience of
+readers who still employ the old terms, these are given in brackets
+after the new.
+
+This edition of the _Manual_ appears in three volumes; the first being
+devoted to General Surgery, the other two to Regional Surgery. This
+arrangement has enabled us to deal in a more consecutive manner than
+hitherto with the surgery of the Extremities, including Fractures and
+Dislocations.
+
+We have once more to express our thanks to colleagues in the Edinburgh
+School and to other friends for aiding us in providing new
+illustrations, and for other valuable help, as well

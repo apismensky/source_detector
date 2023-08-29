@@ -1,0 +1,291 @@
+ Joints
+    ankylosis of, 503
+    bacterial diseases of, 506
+    bleeder's, 531
+    Charcot's disease of, 533
+    chondromata, multiple, of, 544
+    contracture of, 502
+    cysts of, 538
+    developmental errors of, 505
+    diseases of, general, 501, 506
+    disorganisation of, 502
+    empyema of, 501
+    gelatinous degeneration of, 515
+    gliomatous arthropathies, 534
+    gonococcal affections of, 510
+    gouty affections of, 522
+    haemophilic, 531
+    hydrops of, 501
+    hysterical affections of, 537
+    impaired mobility of, 502
+    iodoform in diseases of, 519
+    loose bodies in, 529, 539
+    mimetic affections of, 537
+    nerve lesions affecting, 532
+    neuro-arthropathies, 532
+    osteo-arthritis, 524
+    pneumococcal infection of, 509
+    pyaemic affections of, 508
+    pyogenic diseases of, 506
+    rheumatic affections of, 523, 524
+    rigidity of, 502
+    scarlet fever, infection of, in 508
+    spinal diseases affecting, 532
+    starting pains in, 502, 517
+    synostosis, 503
+    syphilitic diseases of, 521
+    tuberculous diseases of, 512
+    tumours of, 538
+    typhoid infection of, 508
+    white swelling of, 515, 518
+
+  Jumper's sprain, 406
+
+
+  Keloid, 194, 401
+
+  Keratitis, interstitial, in syphilis, 177
+
+  Keratoma of nail bed, 391
+
+  Kharsivan, 163
+
+  Klapp's suction bells, 39
+
+  Klebs-Loffler bacillus, 109
+
+  Klumpke's paralysis, 361
+
+  Knee, cellulitis of, 58
+    ganglion of, 215
+    housemaid's, 426, 431
+
+  Kopf or cephalic tetanus, 116
+
+  Kyphosis, 471
+
+
+  Labourer's back, 405
+
+  Larynx, syphilis of, 177
+
+  Leeches, 41
+
+  Leg ulcer, 72
+    varicose veins of, 287
+
+  Leiter's lead tubes, 41
+
+  Leontiasis ossea, 485
+
+  Leucocytes, emigration of, 32
+    varieties of, 29
+    wandering, 3
+
+  Leucocythaemia, 340
+
+  Leucocytosis, 22, 29
+    absence of, 30
+    digestion, 30
+    after haemorrhage, 30
+    local, 32
+    physiological, 29, 30
+    post-operative, 30
+
+  Leucopenia, 30
+
+  Leucoplakia, 167
+
+  Lightning stroke, 240
+
+  Line of demarcation in gangrene, 87
+
+  Lingual dermoids, 211
+
+  Lipoma, 184
+    arborescent, 423
+    of bone, 187, 491
+    diffuse, 187
+    intra-muscular, 188
+    multiple, 186
+    nasi, 393
+    periosteal, 187
+    subcutaneous, 184, 186
+    subserous, 187
+    subsynovial, 187
+
+  Lipomatosis, diffuse, 187
+
+  Lipping of bone, 527
+
+  Liquor epispasticus, 42
+    puris, 45
+
+  Listerian methods of wound treatment, 242
+
+  Locking of joints, 505
+
+  Lock-jaw, 113
+
+  Locomotor ataxia, joint lesions in, 532
+
+  Long thoracic nerve, injuries of, 363
+
+  Loose bodies in bursae, 427
+    in joints, 529, 539
+    in tendon sheaths, 423
+    varieties of, 539
+
+  Lotion, evaporating, 41
+
+  Luargol, 163
+
+  Luetin, 149
+
+  Lumbago, 412
+
+  Lumbo-sacral fibrositis, 412
+
+  Lupus, 134, 382
+    epithelioma, 384
+    syphilitic, 169
+    tuberculous, 382
+    varieties of, 383, 393
+
+  Lymph, 321
+    cysts, 214
+    glands, cancer of, 340
+      diseases of, 329
+      functions of, 221
+      sarcoma of, 341
+      surgical anatomy of, 321
+      syphilitic diseases of, 337
+      tuberculosis of, 331
+      tumours of, 340
+    oedema, 325
+    scrotum, 389
+    vessels, diseases of, 325
+      injuries of, 323
+
+  Lymphadenitis, 53, 329
+
+  Lymphadenoma, 337
+
+  Lymphangiectasis, 214, 326
+
+  Lymphangioma, varieties of, 327
+
+  Lymphangioplasty, 325, 386
+
+  Lymphangio-sarcoma, 199
+
+  Lymphangitis, 325
+    septic, 53
+    varieties of, 325
+
+  Lymphatic cyst, 328
+    fistula, 324
+    oedema, 325
+
+  Lymphatics, 321
+
+  Lymphocytosis, 29
+
+  Lymphorrhagia, 323
+
+  Lympho-sarcoma, 199, 340
+
+
+  Macewen's method of compressing abdominal aorta, 269
+
+  Macrophages, 22
+
+  Madura foot, 129
+  _Main en griffe_, 369
+
+  Malacia of bones, 473
+
+  Malignant adenoma, 209
+    cachexia, 207
+    oedema, 101
+    pustule, 120
+    tumours, 183
+    ulcers, 77
+
+  Mallein test, 125
+
+  Mallet-finger, 411
+
+  Malum senile, 524
+
+  Marriage and syphilis, 167
+
+  Matas' operation for aneurysm, 307
+
+  Median nerve, lesions of, 367
+
+  Medullary cancer, 210
+
+  Melaena, 259
+
+  Melanotic cancer, 210, 397
+    sarcoma, 200
+
+  Melon-seed bodies, 539
+
+  Meningitis, basal, 115
+    cerebro-spinal, 115
+
+  Mercury in syphilis, administration of, 165
+
+  Metchnikoff's cream, 157
+
+  Michel's clips, 222
+
+  Micrococci, 18
+
+  Micrococcus tetragenus, 29
+
+  Micro-organisms, 18
+
+  Microphages, 22
+
+  Mimetic joint affections, 537
+
+  Miner's elbow, 426
+
+  Mitchell's operation for varicose veins, 294
+
+  Mixed infection, 20
+    naevus, 295
+    venereal infection, 156
+
+  Moist gangrene, 87
+
+  Moles, 390
+    naevoid, 295
+
+  Molluscum fibrosum, 194, 359, 391
+
+  Moore-Corradi method of treating aneurysm, 308
+
+  Mosetig-Moorhof on filling of bone cavities, 447
+
+  Mother's mark, 294
+
+  Muco-pus, 52
+
+  Mucous membrane, grafting of, 16
+      suppuration in, 51
+    patches, 160, 174
+
+  Multilocular cystic tumours of jaw, 193
+
+  Mummification, 86
+
+  Muscle, affections of, 405
+    atrophy of, 412
+    calcification of, 416
+    congenital absence of, 411
+    contracture of, 415
+    contusion of

@@ -1,0 +1,273 @@
+
+    natiform, 176
+    Parrot's nodes, 465
+    syphilitic disease of, 462
+    unilateral hypertrophy of, 487
+
+  Slough, 86
+
+  Snake-bites, 131
+
+  Snuffles, 173
+
+  Soft chancre, 154
+    corns, 377
+    sore, 154
+
+  Spas, 531
+
+  Spasmodic tic, 373
+
+  Sphagnum moss, 247
+
+  Spinal arthropathies, 532
+    cord, joint affections in lesions of, 532
+    repair of, 9
+    syphilis of, 161
+
+  Spine, changes in rickets, 471
+
+  Spirilla, 19
+
+  Spirochaete pallida, 147
+
+  Spironema pallidum, 147
+
+  Splenic fever, 119
+
+  Spores, 18
+
+  Sporotrichosis, 385
+
+  Sprain of muscle, 405, 407
+
+  Sprinter's sprain, 406
+
+  Staphylococci, 19, 24, 438
+
+  Staphylococcus albus, 26
+    aureus, 25
+
+  Starting pains in joints, 502, 517
+
+  Stasis, 32
+
+  Sterilisation, surgical, 243
+
+  Sterno-mastoid lymph glands, 322
+
+  Stitch abscess, 51
+
+  Stitches. _See_ Sutures
+
+  Streptococci, 19, 24
+
+  Streptococcus pyogenes, 26
+
+  Streptothrix actinomyces, 126
+
+  Strychnin poisoning, 115
+
+  Stump neuroma, 344
+
+  Styptics, 271
+
+  Sub-acromial bursa, 429
+
+  Sub-calcanean bursa, 433
+
+  Subclavian aneurysm, 317
+
+  Sub-crural bursa, 430
+
+  Sub-deltoid bursa, 429
+
+  Submaxillary lymph glands, 322
+
+  Submental lymph glands, 322
+
+  Sub-patellar bursa, 431
+
+  Subscapularis bursa, 430
+
+  Subungual exostosis, 191, 404, 481
+
+  Suction bells, 39
+
+  Suppuration, 45
+    chronic, 59
+    diffuse, 52
+    in mucous membranes, 52
+    in wounds, 50
+
+  Supra-clavicular lymph glands, 322
+
+  Supra-hyoid lymph glands, 322
+
+  Supra-scapular nerve, lesions of, 364
+
+  Surgery, definition of, 1
+    Listerian, 242
+
+  Surgical anatomy of blood vessels, 258
+    of bone, 434
+    of epiphyses, 434
+    of lymphatics, 321
+    of nerves, 342
+    of skin, 376
+
+  Surgical bacteriology, 17, 18
+    shock, 250
+
+  Sutures, 221
+    sterilisation of, 245
+
+  Sweat-glands, tumours of, 393
+
+  Syncope, 249
+    local, 97
+
+  Synostosis, 503
+
+  Synovial membrane, tumours of, 538
+
+  Synovitis, 501, 506
+    gonococcal, 510
+    septic, 506
+    serous, 506, 507
+    suppurative, 507
+    syphilitic, 521
+
+  Syphilis, 147. _See also_ Individual Tissues and Organs
+
+  Syphilis, acquired, 146, 149
+      in infants, 179
+    arsenical preparations in, 162
+    arteritis in, 282
+    bones, lesions in, 461, 465
+    brain, lesions in, 161
+    of bursae, 428
+    cirrhosis in, 168
+    Colles' law, 178
+    contracture of muscle in, 416
+    dactylitis in, 176, 460, 466
+    epiphysitis of infants, 465
+    extra-genital, 153
+    in female, 152, 164
+    gumma, 168, 462
+    hydrops in, 521
+    incubation of, 151
+    in infants, 179
+    inherited, 146, 172
+      contagiousness of, 178
+      diagnosis of, 178
+      facies of, 174, 175
+      lesions of bone in, 465
+        eyes in, 176, 177
+        joints in, 522
+        skin in, 173, 174
+        teeth in, 177
+      treatment of, 179
+    insontium, 153
+    intermediate stage of, 167
+    interstitial keratitis in, 177
+    iodides in, 171
+    iritis in, 166
+    joint lesions in, 521
+    of larynx, 177
+    lupus, 169
+    lymphadenitis, 153, 337
+    lymphangitis, 326
+    in male, 152
+    malignant, 161
+    and marriage, 167
+    mercury in, 164
+    mixed infection, 156
+    of mouth, 166
+    of mucous membranes, 160, 173, 174
+    mucous patches, 160, 174
+    of muscle, 416
+    of nails, 159
+    of nose, 188
+    onychia in, 403
+    osteo-arthritis, 522
+    of palate, 178, 462
+    phagedaena, 153
+    phimosis in, 152
+    in pregnant women, 164
+    primary, 151
+      diagnosis of, 155
+      lesion of, 146, 151
+      treatment of, 163
+    prophylaxis of, 149
+    pseudo-paralysis of, 174, 466
+    reminders, 167
+    second attacks of, 172
+    secondary, 151, 157
+      diagnosis of, 161
+      lesions of eye in, 160
+        hair in, 159
+        nails in, 159, 402
+        skin in, 162
+      treatment of, 162
+    serum diagnosis, 149
+    skin affections in, 157, 166
+    skull, lesions of, 462
+    spirochaete pallida in, 147
+    stages of, 150
+    stomatitis, 174
+    synovitis, 521
+    teeth in, 177
+    of tendon sheaths, 424
+    tertiary, 151, 167
+      diagnosis of, 167
+      general manifestations of, 167
+      lesions of mucous membrane in, 171
+        skin in, 168, 169
+      treatment of, 171
+      ulcer, 169
+    ulcers in, 76, 83, 169
+    virus of, 147
+    Wassermann reaction in, 156
+
+  Syphiloma, 168
+
+  Syringomyelia, joint lesions in, 534
+
+
+  Tabes dorsales, joint lesions in, 532
+
+  Taenia echinococcus, 213
+
+  Tailor's ankle, 432
+
+  Tailor's bottom, 426, 430
+
+  Tarsal ganglion, 215
+
+  Tarsus, tuberculosis of, 459
+
+  Teeth in inherited syphilis, 177
+
+  Telangiectasis, congenital, 294
+
+  Temperature in surgical diseases, 35, 40
+
+  Temporal artery, compression of, 269
+
+  Tenderness, 34
+
+  Tendinitis, 416
+
+  Tendon sheaths, affections of, 421
+    syphilitic affections of, 424
+    tuberculosis of, 423, 424
+    tumours of, 424
+    whitlow of, 57
+
+  Tendons. _See also_ Individual Tendons
+    avulsion of, 411
+    calcification in, 416
+    diseases of, 411
+    dislocation of, 408
+    ganglion of, 2

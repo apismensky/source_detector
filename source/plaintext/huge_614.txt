@@ -1,0 +1,259 @@
+ck, 112
+    of Ducrey, 154
+    of glanders, 123
+    Klebs-Loffler, 109
+    of malignant oedema, 101
+    mallei, 123
+    pyocyaneus, 29
+    of soft sore, 154
+    of tetanus, 112
+    tubercle, 133
+    typhosus, 29, 452
+
+  Bacteria, death of, 21
+    general characters of, 18
+    pathogenic properties of, 19
+    pyogenic, 24, 29
+
+  Bacterial intoxication, 21
+
+  Bacteriology, surgical, 17
+
+  Baker's cysts, 539
+
+  Bazin's disease, 74, 169
+
+  Beck's paste in sinuses, 145
+
+  Bed-sores, 73, 103
+
+  Bence-Jones on albumosuria, 195, 474, 492
+
+  Biceps, bursa under, 430
+    dislocation of long tendon of, 409
+    rupture of, 407
+
+  Bier's artificial hyperaemia, 38
+
+  B.I.P.P., 143
+
+  Birth palsies, 362
+
+  Biskra button, 129
+
+  Bismuth gauze, 247
+    injections in sinuses, 145
+
+  Bites of animals, 223
+
+  Black eye, 219
+
+  Bleeder's joint, 531
+
+  Bleeders, 277
+    bruises in, 218
+
+  Blisters, 376
+    purulent, 55
+
+  Blocking of nerves for shock, 252
+
+  Blood, count, 30
+    cysts, 214, 220
+    transfusion of, 11, 253
+
+  Blood vessels. _See_ Arteries and Veins
+
+  Bloodless state, treatment of, 276
+
+  Blood letting, general, 42
+
+  Boil, 379
+    Aleppo, 129
+    Delhi, 129
+
+  Bone. _See also_ Individual Bones
+    abscess of, 448
+    aneurysm of, 498
+    angioma of, 491
+    atrophy of, 479
+    bacterial diseases of, 438
+    Brodie's abscess of, 448
+    cancer of, secondary, 499
+    caries of, 437, 438
+    changes in ulcers of leg, 79
+    chondroma of, 487
+    cysts of, 477, 500
+    diseases of, 434
+      due to staphylococcus aureus, 438
+    endothelioma of, 492
+    exostoses of, 191, 481
+    fibroma of, 491
+    fragility of, 479
+    grafting, 16, 436
+    gumma of, 464
+    hydatid disease of, 467
+    hyperostosis, 435, 464
+    hypertrophic pulmonary osteo-arthropathy, 480
+    hypertrophy of, 435
+    lipoma of, 491
+    lipping of, 527
+    malacia of, 473
+    marrow, function of, 434
+    myeloma of, 491
+    myxoma of, 491
+    necrosis of, 438
+    neuropathic atrophy of, 479
+    osteoma of, 481
+    osteomalacia of, 473
+    osteomyelitis of, 65, 437, 438, 451, 453, 473
+      fibrosa, 476
+    osteoporosis of, 437
+    osteopsathyrosis, 479
+    ostitis deformans, 474
+    Paget's disease of, 474
+    periosteum, function of, 435
+    periostitis, 437
+    pulsating haematoma of, 498
+    pyogenic diseases of, 438
+    regeneration of, 436
+    rickety affections of, 468
+    sarcoma of, 492
+    sclerosis of, 435
+    scurvy affecting, 473
+    secondary tumours of, 499
+    surgical anatomy of, 434
+    staphylococcal diseases of, 438
+    syphilitic diseases of, 461, 465
+    transplantation of, 436
+    tuberculous diseases of, 454
+    tumours of, 480
+      malignant, 492, 499
+      metastatic, 499
+      thyreoid, 500
+    typhoid, infection of, 452
+    X-ray appearances in diseases of, 445, 455, 485, 491, 496
+
+  Bovine tuberculosis, 136
+
+  Brachial aneurysm, 318
+    artery, embolus of, 93
+      compression of, 269
+    birth-paralysis, 362
+    fibrositis, 413
+    neuralgia, 371
+    plexus, lesions of, 360
+
+  Brain, joint affections in lesions of, 537
+    syphilitic lesions of, 161
+
+  Branchial dermoids, 211
+
+  Brasdor's operation for aneurysm, 308
+
+  Brodie's abscess, 448
+
+  Bruises, 218
+
+  Bubo, 329
+    bullet, 153
+    of soft sores, 155
+
+  Bullet bubo, 153
+
+  Bullets, embedded, 231
+    varieties of, 230
+
+  Burnol, 238
+
+  Burns, 233
+    classification, of, 234
+    electrical, 239
+    pathology of, 233
+    by X-rays, 239
+
+  Bursae. _See also_ Individual Bursae
+    adventitious, 426
+    affections of, 426
+      individual, 428
+    diseases of, 426, 428
+    haematoma of, 426
+    hydrops of, 427
+    hygroma of, 423
+    inflammation of, 426
+    injuries of, 426
+    loose bodies in, 427
+    syphilis of, 428
+    tuberculosis of, 428
+    tumours of, 427, 428
+
+
+  Cachexia, cancerous, 207
+
+  Calcanean bursa, 432
+
+  Calcification in arteries, 282
+    in muscles, 416
+    in tuberculosis, 136
+
+  Callosities, 376
+
+  Callous ulcers, 79, 84
+
+  Cancer, 202
+    arsenic, 395
+    of bone, 499
+    cachexia in, 207
+    chimney-sweep's, 395
+    colloid, 210
+    columnar epithelial, 209
+    contagiousness of, 205
+    cystic, 210
+    definition of, 202
+    degeneration of, 205
+    encephaloid, 210
+    _en cuirasse_, 204
+    glandular, 210
+    glandular infection in, 203
+    increase of, 207
+    of lymph glands, 340
+    medullary, 210
+    melanotic, 210, 341, 397
+    paraffin, 395
+    pigmented, 210
+    radium treatment of, 208
+    rodent, 210, 395
+    scirrhous, 210
+    of skin, 394
+    spread of, 204
+    squamous epithelial, 208
+    ulceration of, 205
+    varieties of, 208
+    X-ray, 208
+
+  Cancrum oris, 102
+
+  Cantharides plaster, 42
+
+  Capillaries, anatomy of, 258
+
+  Capillary angioma, 294
+    loops, 3
+
+  Carbolic gangrene, 95
+
+  Carbon-dioxide snow, 297
+
+  Carbuncle, 380
+
+  Carcinoma. _See_ Cancer
+
+  Caries, 437, 438
+    of articular surfaces, 502, 514
+    sicca, 438
+    syphilitic, 462
+    tuberculous, 455
+
+  Carotid aneurysm, 314
+    artery, compression of, 269
+    t

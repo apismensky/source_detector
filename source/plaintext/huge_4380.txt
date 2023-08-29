@@ -1,0 +1,88 @@
+ents of infection.
+
+Even after the patient has come under professional care the risks of his
+wound becoming infected are not past, because the hands of the doctor,
+his instruments, dressings, or other appliances may all, unless
+purified, become the sources of infection.
+
+In the case of an operation carried out through unbroken skin, organisms
+may be introduced into the wound from the patient's own skin, from the
+hands of the surgeon or his assistants, through the medium of
+contaminated instruments, swabs, ligature or suture materials, or other
+things used in the course of the operation, or from the dressings
+applied to the wound.
+
+Further, bacteria may gain access to devitalised tissues by way of the
+blood-stream, being carried hither from some infected area elsewhere in
+the body.
+
+_The Antiseptic System of Surgery._--Those who only know the surgical
+conditions of to-day can scarcely realise the state of matters which
+existed before the introduction of the antiseptic system by Joseph
+Lister in 1867. In those days few wounds escaped the ravages of pyogenic
+and other bacteria, with the result that suppuration ensued after most
+operations, and such diseases as erysipelas, pyaemia, and "hospital
+gangrene" were of everyday occurrence. The mortality after compound
+fractures, amputations, and many other operations was appalling, and
+death from blood-poisoning frequently followed even the most trivial
+operations. An operation was looked upon as a last resource, and the
+inherent risk from blood-poisoning seemed to have set an impassable
+barrier to the further progress of surgery. To the genius of Lister we
+owe it that this barrier was removed. Having satisfied himself that the
+septic process was due to bacterial infection, he devised a means of
+preventing the access of organisms to wounds or of counteracting their
+effects. Carbolic acid was the first antiseptic agent he employed, and
+by its use in compound fractures he soon obtained results such as had
+never before been attained. The principle was applied to other
+conditions with like success, and so profoundly has it affected the
+whole aspect of surgical pathology, that many of the infective diseases
+with which surgeons formerly had to deal are now all but unknown. The
+broad principles upon which Lister founded his system remain unchanged,
+although the methods employed to put them into practice have been
+modified.
+
+#Means taken to Prevent Infection of Wounds.#--The avenues by which
+infective agents may gain access to surgical wounds are so numerous and
+so wide, that it requires the greatest care and the most watchful
+attention on the part of the surgeon to guard them all. It is only by
+constant practice and patient attention to technical details in the
+operating room and at the bedside, that the carrying out of surgical
+manipulations in such a way as to avoid bacterial infection will become
+an instinctive act and a second nature. It is only possible here to
+indicate the chief directions in which danger lies, and to describe the
+means most generally adopted to avoid it.
+
+To prevent infection, it is essential that everything which comes into
+contact with a wound should be sterilised or disinfected, and to ensure
+the best results it is necessary that the efficiency of our methods of
+sterilisation should be periodically tested. The two chief agencies at
+our disposal are heat and chemical antiseptics.
+
+#Sterilisation by Heat.#--The most reliable, and at the same time the
+most convenient and generally applicable, means of sterilisation is by
+heat. All bacteria and spores are completely destroyed by being
+subjected for fifteen minutes to _saturated circulating steam_ at a
+temperature of 130 o to 145 o C. (= 266 o to 293 o F.). The articles to be
+sterilised are enclosed in a perforated tin casket, which is placed in a
+specially constructed steriliser, such as that of Schimmelbusch. This
+apparatus is so arranged that the steam circulates under a pressure of
+from two to three atmospheres, and permeates everything contained in it.
+Objects so sterilised are dry when removed from the steriliser. This
+method is specially suitable for appliances which are not damaged by
+steam, such, for example, as gauze swabs, towels, aprons, gloves, and
+metal instruments; it is essential that the efficiency of the steriliser
+be tested from time to time by a self-registering thermometer or other
+means.
+
+The best substitute for circulating steam is _boiling_. The articles are
+placed in a "fish-kettle steriliser" and boiled for fifteen minutes in a
+1 per cent. solution of washing soda.
+
+To prevent contamination of objects that have been sterilised they must
+on no account be touched by any one whose hands have not been
+disinfected and protected by sterilised gloves.
+
+#Sterilisation by Chemical Agents.#--For the purification of the skin of
+the patient, the hands of the surgeon, and knives and other instruments
+that are damaged by heat, recourse must be had to chemical agents.
+These, however, are les

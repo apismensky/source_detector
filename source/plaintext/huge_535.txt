@@ -1,0 +1,88 @@
+)
+
+#Primary Suture.#--The reunion of a recently divided nerve is spoken of
+as primary suture, and for its success asepsis is essential. As the
+suturing of the ends of the nerve is extremely painful, an anaesthetic is
+required.
+
+When the wound is healed and while waiting for the restoration of
+function, measures are employed to maintain the nutrition of the damaged
+nerve and of the parts supplied by it. The limb is exercised, massaged,
+and douched, and protected from cold and other injurious influences. The
+nutrition of the paralysed muscles is further improved by electricity.
+The galvanic current is employed, using at first a mild current of not
+more than 5 milliamperes for about ten minutes, the current being made
+to flow downwards in the course of the nerve, with the positive
+electrode applied to the spine, and the negative over the affected nerve
+near its termination. It is an advantage to have a metronome in the
+circuit whereby the current is opened and closed automatically at
+intervals, so as to cause contraction of the muscles.
+
+_The results_ of primary suture, when it has been performed under
+favourable conditions, are usually satisfactory. In a series of cases
+investigated by Head and Sherren, the period between the operation and
+the first return of sensation averaged 65 days. According to Purves
+Stewart protopathic sensation commences to appear in about six weeks and
+is completely restored in six months; electric sensation and motor power
+reappear together in about six months, and restoration is complete in a
+year. When sensation returns, the area of insensibility to pain steadily
+diminishes and disappears; sensibility to extremes of temperature
+appears soon after; and last of all, after a considerable interval,
+there is simultaneous return of appreciation of light touch, moderate
+degrees of temperature, and the points of a compass.
+
+A clinical means of estimating how regeneration in a divided nerve is
+progressing has been described by Tinel. He found that a tingling
+sensation, similar to that experienced in the foot, when it is
+recovering from the "sleeping" condition induced by prolonged pressure
+on the sciatic nerve from sitting on a hard bench, can be elicited on
+percussing over _growing_ axis cylinders. Tapping over the proximal end
+of a _newly divided nerve_, _e.g._ the common peroneal behind the head
+of the fibula, produces no tingling, but when in about three weeks
+axis cylinders begin to grow in the proximal end-bulb, local tingling is
+induced by tapping there. The downward growth of the axis cylinders can
+be traced by tapping over the distal segment of the nerve, the tingling
+sensation being elicited as far down as the young axis cylinders have
+reached. When the regeneration of the axis cylinders is complete,
+tapping no longer causes tingling. It usually takes about one hundred
+days for this stage to be reached.
+
+Tinel's sign is present before voluntary movement, muscular tone, or the
+normal electrical reactions reappear.
+
+In cases of complete nerve paralysis that have not been operated upon,
+the tingling test is helpful in determining whether or not regeneration
+is taking place. Its detection may prevent an unnecessary operation
+being performed.
+
+Primary suture should not be attempted so long as the wound shows signs
+of infection, as it is almost certain to end in failure. The ends should
+be sutured, however, as soon as the wound is aseptic or has healed.
+
+#Secondary Suture.#--The term secondary suture is applied to the
+operation of stitching the ends of the divided nerve after the wound has
+healed.
+
+_Results of Secondary Suture._--When secondary suture has been performed
+under favourable conditions, the prognosis is good, but a longer time is
+required for restoration of function than after primary suture. Purves
+Stewart says protopathic sensation is sometimes observed much earlier
+than in primary suture, because partial regeneration of axis cylinders
+in the peripheral segment has already taken place. Sensation is
+recovered first, but it seldom returns before three or four months.
+There then follows an improvement or disappearance of any trophic
+disturbances that may be present. Recovery of motion may be deferred for
+long periods--rather because of the changes in the muscles than from
+want of conductivity in the nerve--and if the muscles have undergone
+complete degeneration, it may never take place at all. While waiting for
+recovery, every effort should be made to maintain the nutrition of the
+damaged nerve, and of the parts which it supplies.
+
+When suture is found to be impossible, recourse must be had to other
+methods, known as nerve bridging and nerve implantation.
+
+#Incomplete Division of a Mixed Nerve.#--The effects of partial division
+of a mixed nerve vary according to the destination of the nerve bundles
+that have been interrupted. Within their area of distribution the
+paralysis is as complete as if the whole trunk had been cut across. The
+uninjured nerve-bundles continue to trans

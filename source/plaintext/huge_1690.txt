@@ -1,0 +1,86 @@
+ the most powerful.
+
+#Immunity.#--Some persons are insusceptible to infection by certain
+diseases, from which they are said to enjoy a _natural immunity_. In
+many acute diseases one attack protects the patient, for a time at
+least, from a second attack--_acquired immunity_.
+
+_Phagocytosis._--In the production of immunity the leucocytes and
+certain other cells play an important part in virtue of the power they
+possess of ingesting bacteria and of destroying them by a process of
+intra-cellular digestion. To this process Metchnikoff gave the name of
+_phagocytosis_, and he recognised two forms of _phagocytes_: (1) the
+_microphages_, which are the polymorpho-nuclear leucocytes of the blood;
+and (2) the _macrophages_, which include the larger hyaline leucocytes,
+endothelial cells, and connective-tissue corpuscles.
+
+During the process of phagocytosis, the polymorpho-nuclear leucocytes in
+the circulating blood increase greatly in numbers (_leucocytosis_), as
+well as in their phagocytic action, and in the course of destroying the
+bacteria they produce certain ferments which enter the blood serum.
+These are known as _opsonins_ or _alexins_, and they act on the bacteria
+by a process comparable to narcotisation, and render them an easy prey
+for the phagocytes.
+
+_Artificial or Passive Immunity._--A form of immunity can be induced by
+the introduction of protective substances obtained from an animal which
+has been actively immunised. The process by which passive immunity is
+acquired depends upon the fact that as a result of the reaction between
+the specific virus of a particular disease (the _antigen_) and the
+tissues of the animal attacked, certain substances--_antibodies_--are
+produced, which when transferred to the body of a susceptible animal
+protect it against that disease. The most important of these antibodies
+are the _antitoxins_. From the study of the processes by which immunity
+is secured against the effects of bacterial action the serum and vaccine
+methods of treating certain infective diseases have been evolved. The
+_serum treatment_ is designed to furnish the patient with a sufficiency
+of antibodies to neutralise the infection. The anti-diphtheritic and the
+anti-tetanic act by neutralising the specific toxins of the
+disease--_antitoxic serums_; the anti-streptcoccic and the serum for
+anthrax act upon the bacteria--_anti-bacterial serums_.
+
+A _polyvalent_ serum, that is, one derived from an animal which has been
+immunised by numerous strains of the organism derived from various
+sources, is much more efficacious than when a single strain has been
+used.
+
+_Clinical Use of Serums._--Every precaution must be taken to prevent
+organismal contamination of the serum or of the apparatus by means of
+which it is injected. Syringes are so made that they can be sterilised
+by boiling. The best situations for injection are under the skin of the
+abdomen, the thorax, or the buttock, and the skin should be purified at
+the seat of puncture. If the bulk of the full dose is large, it should
+be divided and injected into different parts of the body, not more than
+20 c.c. being injected at one place. The serum may be introduced
+directly into a vein, or into the spinal canal, _e.g._ anti-tetanic
+serum. The immunity produced by injections of antitoxic sera lasts only
+for a comparatively short time, seldom longer than a few weeks.
+
+_"Serum Disease" and Anaphylaxis._--It is to be borne in mind that some
+patients exhibit a supersensitiveness with regard to protective sera, an
+injection being followed in a few days by the appearance of an
+urticarial or erythematous rash, pain and swelling of the joints, and a
+variable degree of fever. These symptoms, to which the name _serum
+disease_ is applied, usually disappear in the course of a few days.
+
+The term _anaphylaxis_ is applied to an allied condition of
+supersensitiveness which appears to be induced by the injection of
+certain substances, including toxins and sera, that are capable of
+acting as antigens. When a second injection is given after an interval
+of some days, if anaphylaxis has been established by the first dose, the
+patient suddenly manifests toxic symptoms of the nature of profound
+shock which may even prove fatal. The conditions which render a person
+liable to develop anaphylaxis and the mechanism by which it is
+established are as yet imperfectly understood.
+
+_Vaccine Treatment._--The vaccine treatment elaborated by A. E. Wright
+consists in injecting, while the disease is still active, specially
+prepared dead cultures of the causative organisms, and is based on the
+fact that these "vaccines" render the bacteria in the tissues less able
+to resist the attacks of the phagocytes. The method is most successful
+when the vaccine is prepared from organisms isolated from the patient
+himself, _autogenous vaccine_, but when this is impracticable, or takes
+a considerable time, laboratory-prepared polyvalent _stock vaccines_ may
+be used.
+
+_Clinical Use of Vaccines._--Vaccines should not be giv
