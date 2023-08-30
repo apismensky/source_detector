@@ -1,7 +1,7 @@
 import os
 
 # Set the path to the original file
-original_file = "plaintext/huge.txt"
+original_file = "plaintext/book.txt"
 
 # Set the desired size of each split file
 file_size = 5000
